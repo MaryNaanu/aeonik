@@ -53,4 +53,14 @@ p{
     font-size: medium;
     padding-top: 70px;
 }
+@media only screen and (min-width:480px ){
+    ul{
+        list-style: none;
+        padding-top: 20px;
+        margin-left: -20px;
+    }
+    i{
+    padding-top: 400px;
+    }
 
+}
